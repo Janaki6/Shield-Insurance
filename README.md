@@ -10,16 +10,16 @@ Analyzed key metrics, including total revenue, customer demographics, age-group 
 I created an interactive dashboard with three detailed views:
 
 1. General View 📈:
-- Identified trends and patterns in overall performance metrics.
+Identified trends and patterns in overall performance metrics.
 
 2. Sales Mode Analysis 💼:
-- Analyzed effectiveness and preference of different sales channels.
+Analyzed effectiveness and preference of different sales channels.
 
 3. Age Group Analysis 👵👴:
-- Investigated customer behavior and preferences across age demographics.
+Investigated customer behavior and preferences across age demographics.
 
 
-Tools used:
+**Tools used:**
 
 Excel
 
