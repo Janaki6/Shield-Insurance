@@ -47,3 +47,7 @@ Top Policy by Customer Count: Policy ID "POL4321HEL" has the largest customer ba
 Top Policy by Revenue: Policy ID "POL2005HEL" leads in revenue generation at $324.3 million. This premium policy offers coverage of 1 crore for a premium of 120,000, attracting 1,968 policyholders.
 
 High Settlement Expectations: The 65+ age group shows the average highest expected settlement percentages.
+
+
+Dashboard link<https://app.powerbi.com/view?r=eyJrIjoiNDBhODVhY2EtN2UxYS00Y2IzLWE3NjMtN2VlMDQyNjBhNDRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9>
+
