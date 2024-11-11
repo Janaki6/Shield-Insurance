@@ -8,20 +8,25 @@ Analyzed key metrics, including total revenue, customer demographics, age-group 
 **🖥 Dashboard Features:**
 
 I created an interactive dashboard with three detailed views:
-**1. General View 📈:**
+
+1. General View 📈:
 - Identified trends and patterns in overall performance metrics.
 
-**2. Sales Mode Analysis 💼:**
+2. Sales Mode Analysis 💼:
 - Analyzed effectiveness and preference of different sales channels.
 
-**3. Age Group Analysis 👵👴:**
+3. Age Group Analysis 👵👴:
 - Investigated customer behavior and preferences across age demographics.
 
 
 Tools used:
+
 Excel
+
 PowerBI
+
 PowerPoint
+
 
 **💡Key Insights from SHIELD Insurance Analysis:**
 
