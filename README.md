@@ -1,20 +1,29 @@
 I’m thrilled to share the completion of my latest project for the Codebasics Virtual Internship! In this project, I analyzed Shield Insurance’s performance and developed a comprehensive dashboard packed with insights to support strategic business decisions and drive growth.
 
-📊 Project Objective:
+**📊 Project Objective:**
 
 Analyzed key metrics, including total revenue, customer demographics, age-group trends, sales channel preferences, policy performance, and claim settlement statistics.
 
 
-🖥 Dashboard Features:
+**🖥 Dashboard Features:**
 
-I created an interactive dashboard with three detailed views:General View,Sales Mode Analysis and Age Group Analysis.
+I created an interactive dashboard with three detailed views:
+**1. General View 📈:**
+- Identified trends and patterns in overall performance metrics.
+
+**2. Sales Mode Analysis 💼:**
+- Analyzed effectiveness and preference of different sales channels.
+
+**3. Age Group Analysis 👵👴:**
+- Investigated customer behavior and preferences across age demographics.
+
 
 Tools used:
 Excel
 PowerBI
 PowerPoint
 
-💡Key Insights from SHIELD Insurance Analysis:
+**💡Key Insights from SHIELD Insurance Analysis:**
 
 Total Customers: SHIELD Insurance proudly serves 26,841 customers.
 
