@@ -51,7 +51,6 @@ PowerPoint
 
 [Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiNDBhODVhY2EtN2UxYS00Y2IzLWE3NjMtN2VlMDQyNjBhNDRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-https://app.powerbi.com/view?r=eyJrIjoiNDBhODVhY2EtN2UxYS00Y2IzLWE3NjMtN2VlMDQyNjBhNDRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
+![image]([https://github.com/user-attachments/assets/4d4310c1-57e0-43be-b97d-a1afe9c2df61](https://app.powerbi.com/view?r=eyJrIjoiNDBhODVhY2EtN2UxYS00Y2IzLWE3NjMtN2VlMDQyNjBhNDRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 
